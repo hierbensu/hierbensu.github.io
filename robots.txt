@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hierbensu.github.io/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/app/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/assets/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/css/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/includes/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/item/hierbensu.hierbensu
+Sitemap: https://hierbensu.github.io/src/hierbensu.hierbensu
